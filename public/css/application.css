@@ -33,9 +33,11 @@ body {
   font-weight: 400;
   margin: 0;
   padding: 0;
+  overflow: hidden;
   background-color: #fff;
   color: #0b0c0c;
-  font-weight: 700; }
+  font-weight: 700;
+  -webkit-font-smoothing: antialiased; }
 
 img {
   display: block; }
@@ -48,13 +50,17 @@ img {
   height: 100vh;
   top: 100vh;
   left: 0;
-  background: #fff; }
+  background: #fff;
+  -webkit-transform: translateZ(0);
+  transition: top 0.75s ease-out; }
 
 .active {
-  top: 0; }
+  top: 0;
+  z-index: 2; }
 
 .previous {
-  top: -100vh; }
+  top: -100vh;
+  z-index: 1; }
 
 .logo img {
   margin: auto;
