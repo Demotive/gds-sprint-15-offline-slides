@@ -39,6 +39,6 @@ $(function() {
     advance();
   });
 
-  var slideshow = window.setInterval(advance, 5*1000);
+  //var slideshow = window.setInterval(advance, 5*1000);
 
 });

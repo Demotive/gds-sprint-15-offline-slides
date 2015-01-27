@@ -32,12 +32,12 @@ module.exports = function(grunt) {
       options: {
         jsTags: { // optional
           start: '<script type="text/javascript">\n',
-          end: '</script>\n'
+          end: '\n</script>\n'
         }
       },
       all: {
         files: {
-          'public/offline-version.html': 'public/offline-version.html',
+          'public/offline-version.html': 'public/index.html',
         },
       },
     },
