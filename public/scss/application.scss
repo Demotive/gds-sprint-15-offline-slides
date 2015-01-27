@@ -2,6 +2,31 @@
 @import 'fonts';
 @import 'colours';
 
+// Panel colour classes /////////////////////////////////////////////////////////////////
+// colour pallette from Michael
+.c0 {
+  background-color: rgb(132, 153, 75); // the key green
+}
+.c1 {
+  background-color: rgb(237, 28, 26);
+}
+.c2 {
+  background-color: rgb(241, 103, 36);
+}
+.c3 {
+  background-color: rgb(251, 178, 27);
+}
+.c4 {
+  background-color: rgb(93, 188, 105);
+}
+.c5 {
+  background-color: rgb(51, 192, 204);
+}
+.c6 {
+  background-color: rgb(214, 49, 123);
+}
+
+
 #controls {
   position: absolute;
   right: 0;
