@@ -7,5 +7,8 @@
     "type": "git",
     "url": "https://github.com/Demotive/gds-sprint-15-offline-slides.git"
   },
-  "homepage": "https://github.com/Demotive/gds-sprint-15-offline-slides"
+  "homepage": "https://github.com/Demotive/gds-sprint-15-offline-slides",
+  "dependencies": {
+    "express": "^4.11.1"
+  }
 }
