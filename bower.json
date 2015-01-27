@@ -1,0 +1,11 @@
+{
+  "name": "gds-sprint-15-offline-slides",
+  "version": "0.0.0",
+  "homepage": "https://github.com/Demotive/gds-sprint-15-offline-slides",
+  "authors": [
+    "Demotive <mat@demotive.com>"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.3"
+  }
+}

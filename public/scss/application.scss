@@ -1,0 +1,57 @@
+// distilled from govuk_toolkit and template
+@import 'fonts';
+@import 'colours';
+
+#controls {
+  position: absolute;
+  right: 0;
+  top: 0;
+  z-index: 999;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  @include font-generator;
+
+  margin: 0;
+  padding: 0;
+  background-color: $white;
+  color: $black;
+  font-weight: 700;
+}
+
+img {
+  display: block;
+}
+
+.item {
+  position: absolute;
+  display: -webkit-flex;
+  display: flex;
+  width: 100%;
+  height: 100vh;
+  top: 100vh;
+  left: 0;
+  background: $white;
+}
+
+.active {
+  top: 0;
+}
+
+.previous {
+  top: -100vh;
+}
+
+.logo img {
+  margin: auto;
+  width: 50%;
+}
+
+.tester {
+  padding: 10%;
+  border: 5px solid red;
+}

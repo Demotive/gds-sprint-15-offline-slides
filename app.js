@@ -1,5 +1,4 @@
-var express = require('express')
-var request = require('request');
+var express = require('express');
 var app = express();
 var port = (process.env.PORT || 3000);
 
