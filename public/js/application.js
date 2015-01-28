@@ -34,11 +34,11 @@ $(function() {
 
   //report();
 
-  $('#controls').on('click', 'a', function(e) {
+  /*$('#controls').on('click', 'a', function(e) {
     e.preventDefault();
     advance();
-  });
+  });*/
 
-  var slideshow = window.setInterval(advance, 5*1000);
+  var slideshow = window.setInterval(advance, 8*1000);
 
 });

@@ -4,23 +4,23 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="4 -19.2 299.4 295" enable-background="new 4 -19.2 299.4 295" xml:space="preserve">
 <g>
-	<polygon fill="#FFFFFF" points="148.2,177.2 160.2,202.2 131,202.2 122.4,202.2 93.2,202.2 105.2,177.2 	"/>
-	<polygon fill="none" stroke="#5DBC69" stroke-width="2.9102" stroke-miterlimit="10" points="148.2,177.2 160.2,202.2 131,202.2 
-		122.4,202.2 93.2,202.2 105.2,177.2 	"/>
-	<path fill="#FFFFFF" d="M246.5,173.5c0,5.4-4.4,9.9-9.7,9.9H16.6c-5.4,0-9.7-4.4-9.7-9.9v-140c0-5.4,4.4-9.9,9.7-9.9h220.1
-		c5.4,0,9.7,4.4,9.7,9.9L246.5,173.5c0,5.4-4.4,9.9-9.7,9.9H16.6c-5.4,0-9.7-4.4-9.7-9.9"/>
-	<path fill="none" stroke="#5DBC69" stroke-width="5.8204" stroke-miterlimit="10" d="M246.5,173.5c0,5.4-4.4,9.9-9.7,9.9H16.6
-		c-5.4,0-9.7-4.4-9.7-9.9v-140c0-5.4,4.4-9.9,9.7-9.9h220.1c5.4,0,9.7,4.4,9.7,9.9L246.5,173.5c0,5.4-4.4,9.9-9.7,9.9H16.6
+	<polygon fill="#FFFFFF" points="148.2,142.2 160.2,167.2 131,167.2 122.4,167.2 93.2,167.2 105.2,142.2 	"/>
+	<polygon fill="none" stroke="#5DBC69" stroke-width="2.9102" stroke-miterlimit="10" points="148.2,142.2 160.2,167.2 131,167.2 
+		122.4,167.2 93.2,167.2 105.2,142.2 	"/>
+	<path fill="#FFFFFF" d="M246.5,138.5c0,5.4-4.4,9.9-9.7,9.9H16.6c-5.4,0-9.7-4.4-9.7-9.9v-140c0-5.4,4.4-9.9,9.7-9.9h220.1
+		c5.4,0,9.7,4.4,9.7,9.9L246.5,138.5c0,5.4-4.4,9.9-9.7,9.9H16.6c-5.4,0-9.7-4.4-9.7-9.9"/>
+	<path fill="none" stroke="#5DBC69" stroke-width="5.8204" stroke-miterlimit="10" d="M246.5,138.5c0,5.4-4.4,9.9-9.7,9.9H16.6
+		c-5.4,0-9.7-4.4-9.7-9.9v-140c0-5.4,4.4-9.9,9.7-9.9h220.1c5.4,0,9.7,4.4,9.7,9.9L246.5,138.5c0,5.4-4.4,9.9-9.7,9.9H16.6
 		c-5.4,0-9.7-4.4-9.7-9.9"/>
-	<polygon fill="#5DBC69" points="23.3,166.9 230,166.9 230,40.1 23.3,40.1 	"/>
-	<polygon fill="#FFFFFF" points="35.9,200.6 7.5,219.1 245.8,219.3 217.5,200.6 	"/>
-	<polygon fill="none" stroke="#5DBC69" stroke-width="5.8204" stroke-linejoin="round" stroke-miterlimit="10" points="35.9,200.6 
-		7.5,219.1 245.8,219.3 217.5,200.6 	"/>
-	<path fill="#FFFFFF" d="M301.9,220.3c0,7.7-40.4,7.7-40.4,0s9-14,20.2-14C292.8,206.4,301.9,212.6,301.9,220.3L301.9,220.3z"/>
-	<path fill="none" stroke="#5DBC69" stroke-width="2.9102" stroke-linejoin="round" stroke-miterlimit="10" d="M301.9,220.3
-		c0,7.7-40.4,7.7-40.4,0s9-14,20.2-14C292.8,206.4,301.9,212.6,301.9,220.3L301.9,220.3z"/>
-	<polygon fill="#FFFFFF" points="245.8,234.4 7.6,234.4 7.6,219.9 245.8,219.9 	"/>
-	<polygon fill="none" stroke="#5DBC69" stroke-width="2.9102" stroke-linejoin="round" stroke-miterlimit="10" points="245.8,234.4 
-		7.6,234.4 7.6,219.9 245.8,219.9 	"/>
+	<polygon fill="#5DBC69" points="23.3,131.9 230,131.9 230,5.1 23.3,5.1 	"/>
+	<polygon fill="#FFFFFF" points="35.9,165.6 7.5,184.1 245.8,184.3 217.5,165.6 	"/>
+	<polygon fill="none" stroke="#5DBC69" stroke-width="5.8204" stroke-linejoin="round" stroke-miterlimit="10" points="35.9,165.6 
+		7.5,184.1 245.8,184.3 217.5,165.6 	"/>
+	<path fill="#FFFFFF" d="M301.9,185.3c0,7.7-40.4,7.7-40.4,0s9-14,20.2-14C292.8,171.4,301.9,177.6,301.9,185.3L301.9,185.3z"/>
+	<path fill="none" stroke="#5DBC69" stroke-width="2.9102" stroke-linejoin="round" stroke-miterlimit="10" d="M301.9,185.3
+		c0,7.7-40.4,7.7-40.4,0s9-14,20.2-14C292.8,171.4,301.9,177.6,301.9,185.3L301.9,185.3z"/>
+	<polygon fill="#FFFFFF" points="245.8,199.4 7.6,199.4 7.6,184.9 245.8,184.9 	"/>
+	<polygon fill="none" stroke="#5DBC69" stroke-width="2.9102" stroke-linejoin="round" stroke-miterlimit="10" points="245.8,199.4 
+		7.6,199.4 7.6,184.9 245.8,184.9 	"/>
 </g>
 </svg>
