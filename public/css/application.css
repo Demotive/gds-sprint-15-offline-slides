@@ -72,20 +72,34 @@ img {
   display: table-cell;
   width: 33%;
   height: 100%;
-  vertical-align: top; }
+  padding: 0 5vw;
+  vertical-align: middle; }
 
 .text {
   display: table-cell;
   width: 67%;
   height: 100%;
-  vertical-align: top; }
+  vertical-align: middle; }
 
 .main {
-  font-size: 5vw;
-  line-height: 1; }
+  font-size: 4vw;
+  line-height: 1.1; }
+
+.shout {
+  font-size: 6vw; }
 
 .meta {
+  padding: 7vh 5vw 0 0;
   font-size: 2vw; }
+
+[class*='logo-'] {
+  float: right;
+  height: 15vh;
+  margin-top: 1vh; }
+
+.logo-hmrc,
+.logo-moj {
+  height: 11vh; }
 
 .c0 {
   background-color: #84994b; }
