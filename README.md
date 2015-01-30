@@ -6,9 +6,9 @@ It's a little Node / Express app that's just a slideshow. 9 x hard coded facts /
 
 ### Getting started
 
-Make sure you have Node, NPM, Grunt, Bower installed.
-
-For the time being, packages are in this repo. So at the moment it's a case of ```grunt``` in the project directory.
+Make sure you have [Node](http://nodejs.org/) and NPM installed.<br>
+Run ``` npm install ``` to get the packages you need.<br>
+Once that's done, ``` grunt ``` will get you running on ``` localhost:3000 ``` with sass watching.
 
 ### The offline version
 
